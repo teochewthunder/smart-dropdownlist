@@ -10,7 +10,7 @@ Drop-down lists are nice. What's nicer is when ultra-long lists can be *searchab
 
 ## CSS
 - Most of this is purely decorative and layout.
-- The *select* tag is hidden.
+- The `select` tag is hidden.
 
 ## JavaScript
 - When the "button" is clicked, populate the unordered list with text from the drop-down list, and display the unordered list.
